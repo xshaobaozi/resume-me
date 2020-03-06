@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Resume-it
 ======
 
@@ -83,3 +84,6 @@ npm run public
 ## LICENSE
 
 MIT
+=======
+# resume-me
+>>>>>>> f78e140b07d69aedfd5e945418f0c7480280447d
