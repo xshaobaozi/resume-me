@@ -4,7 +4,7 @@ name: 彭毅俊
 nickname: 
 meta_content: 
 keywords: 
-gender: 16届
+gender: 16届 / 27岁
 school: 广东科技学院
 profession: 软件工程
 apply_to_position: Web前端工程师
@@ -94,14 +94,14 @@ experience: # 项目经验
 skill: # 技能清单
       -
         des: !!md |
-          主要技术栈是Vue体系相关的开发, 对React,小程序或基于Node的后台开发都有一定的了解
+          3年前端开发经验,熟悉Vue体系相关的开发, 对React,小程序或基于Node的后台开发都有一定的经验
       -
         des: !!md |
-          熟悉移动端/PC端/混合开发等开发模式,对图表开发,页面打印有一定经验
+          熟悉移动端/PC端/混合开发/原生开发等开发模式,对图表开发,页面打印有一定经验
       -
         des: !!md |
-           熟悉JavaScript/HTML/CSS/GIT/HTTP/Webpack等相关专业知识
+           熟悉ES6/JavaScript/HTML/CSS/GIT/SVN/HTTP/Webpack/SCSS等相关前端知识
       -
         des: !!md |
-           了解浏览器渲染机制,了解TCP/IP等网络协议
+           了解浏览器渲染机制并优化页面,了解TCP/IP等网络协议
 ---
